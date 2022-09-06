@@ -1,4 +1,4 @@
-#sobre el proyecto   pos-php
+# sobre el proyecto   pos-php
 Este es un proyecto personal que utliza  las siguientes tecnologias:PHP,SQL,HTML5,CSS3,BOOTSTRAP,,JS,AJAX,JQUERY,responsive design
 
  
@@ -11,9 +11,9 @@ En este proyecto se utlizaron las siguientes tecnologias:
 - html5
 - css3
 - sql
--js
--ajax
--jquery
+- js
+- ajax
+- jquery
 
 ### 🛠️ Funcionalidades
 ----------------------- 
